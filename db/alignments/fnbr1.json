@@ -1,0 +1,394 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.240", 
+   "id": "f000001", 
+   "language": "pt-br", 
+   "lines": [
+    "Quando"
+   ]
+  }, 
+  {
+   "begin": "0.240", 
+   "children": [], 
+   "end": "0.600", 
+   "id": "f000002", 
+   "language": "pt-br", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "0.600", 
+   "children": [], 
+   "end": "1.240", 
+   "id": "f000003", 
+   "language": "pt-br", 
+   "lines": [
+    "gente"
+   ]
+  }, 
+  {
+   "begin": "1.240", 
+   "children": [], 
+   "end": "2.080", 
+   "id": "f000004", 
+   "language": "pt-br", 
+   "lines": [
+    "pensa"
+   ]
+  }, 
+  {
+   "begin": "2.080", 
+   "children": [], 
+   "end": "5.800", 
+   "id": "f000005", 
+   "language": "pt-br", 
+   "lines": [
+    "na"
+   ]
+  }, 
+  {
+   "begin": "5.800", 
+   "children": [], 
+   "end": "7.680", 
+   "id": "f000006", 
+   "language": "pt-br", 
+   "lines": [
+    "Esc\u00f3cia,"
+   ]
+  }, 
+  {
+   "begin": "7.680", 
+   "children": [], 
+   "end": "8.320", 
+   "id": "f000007", 
+   "language": "pt-br", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "8.320", 
+   "children": [], 
+   "end": "18.240", 
+   "id": "f000008", 
+   "language": "pt-br", 
+   "lines": [
+    "primeira"
+   ]
+  }, 
+  {
+   "begin": "18.240", 
+   "children": [], 
+   "end": "18.640", 
+   "id": "f000009", 
+   "language": "pt-br", 
+   "lines": [
+    "coisa"
+   ]
+  }, 
+  {
+   "begin": "18.640", 
+   "children": [], 
+   "end": "18.640", 
+   "id": "f000010", 
+   "language": "pt-br", 
+   "lines": [
+    "que"
+   ]
+  }, 
+  {
+   "begin": "18.640", 
+   "children": [], 
+   "end": "18.920", 
+   "id": "f000011", 
+   "language": "pt-br", 
+   "lines": [
+    "vem"
+   ]
+  }, 
+  {
+   "begin": "18.920", 
+   "children": [], 
+   "end": "19.200", 
+   "id": "f000012", 
+   "language": "pt-br", 
+   "lines": [
+    "\u00e0"
+   ]
+  }, 
+  {
+   "begin": "19.200", 
+   "children": [], 
+   "end": "19.560", 
+   "id": "f000013", 
+   "language": "pt-br", 
+   "lines": [
+    "mente"
+   ]
+  }, 
+  {
+   "begin": "19.560", 
+   "children": [], 
+   "end": "20.080", 
+   "id": "f000014", 
+   "language": "pt-br", 
+   "lines": [
+    "\u00e9"
+   ]
+  }, 
+  {
+   "begin": "20.080", 
+   "children": [], 
+   "end": "20.480", 
+   "id": "f000015", 
+   "language": "pt-br", 
+   "lines": [
+    "homem"
+   ]
+  }, 
+  {
+   "begin": "20.480", 
+   "children": [], 
+   "end": "20.640", 
+   "id": "f000016", 
+   "language": "pt-br", 
+   "lines": [
+    "de"
+   ]
+  }, 
+  {
+   "begin": "20.640", 
+   "children": [], 
+   "end": "21.080", 
+   "id": "f000017", 
+   "language": "pt-br", 
+   "lines": [
+    "saia,"
+   ]
+  }, 
+  {
+   "begin": "21.080", 
+   "children": [], 
+   "end": "21.320", 
+   "id": "f000018", 
+   "language": "pt-br", 
+   "lines": [
+    "whisky"
+   ]
+  }, 
+  {
+   "begin": "21.320", 
+   "children": [], 
+   "end": "21.960", 
+   "id": "f000019", 
+   "language": "pt-br", 
+   "lines": [
+    "escoc\u00eas"
+   ]
+  }, 
+  {
+   "begin": "21.960", 
+   "children": [], 
+   "end": "22.080", 
+   "id": "f000020", 
+   "language": "pt-br", 
+   "lines": [
+    "e"
+   ]
+  }, 
+  {
+   "begin": "22.080", 
+   "children": [], 
+   "end": "22.400", 
+   "id": "f000021", 
+   "language": "pt-br", 
+   "lines": [
+    "gaita"
+   ]
+  }, 
+  {
+   "begin": "22.400", 
+   "children": [], 
+   "end": "22.560", 
+   "id": "f000022", 
+   "language": "pt-br", 
+   "lines": [
+    "de"
+   ]
+  }, 
+  {
+   "begin": "22.560", 
+   "children": [], 
+   "end": "22.840", 
+   "id": "f000023", 
+   "language": "pt-br", 
+   "lines": [
+    "fole."
+   ]
+  }, 
+  {
+   "begin": "22.840", 
+   "children": [], 
+   "end": "23.000", 
+   "id": "f000024", 
+   "language": "pt-br", 
+   "lines": [
+    "Mas"
+   ]
+  }, 
+  {
+   "begin": "23.000", 
+   "children": [], 
+   "end": "23.160", 
+   "id": "f000025", 
+   "language": "pt-br", 
+   "lines": [
+    "na"
+   ]
+  }, 
+  {
+   "begin": "23.160", 
+   "children": [], 
+   "end": "23.720", 
+   "id": "f000026", 
+   "language": "pt-br", 
+   "lines": [
+    "verdade,"
+   ]
+  }, 
+  {
+   "begin": "23.720", 
+   "children": [], 
+   "end": "24.360", 
+   "id": "f000027", 
+   "language": "pt-br", 
+   "lines": [
+    "Edimburgo"
+   ]
+  }, 
+  {
+   "begin": "24.360", 
+   "children": [], 
+   "end": "24.520", 
+   "id": "f000028", 
+   "language": "pt-br", 
+   "lines": [
+    "\u00e9"
+   ]
+  }, 
+  {
+   "begin": "24.520", 
+   "children": [], 
+   "end": "24.720", 
+   "id": "f000029", 
+   "language": "pt-br", 
+   "lines": [
+    "uma"
+   ]
+  }, 
+  {
+   "begin": "24.720", 
+   "children": [], 
+   "end": "25.080", 
+   "id": "f000030", 
+   "language": "pt-br", 
+   "lines": [
+    "meca"
+   ]
+  }, 
+  {
+   "begin": "25.080", 
+   "children": [], 
+   "end": "25.280", 
+   "id": "f000031", 
+   "language": "pt-br", 
+   "lines": [
+    "pra"
+   ]
+  }, 
+  {
+   "begin": "25.280", 
+   "children": [], 
+   "end": "26.120", 
+   "id": "f000032", 
+   "language": "pt-br", 
+   "lines": [
+    "ci\u00eancia,"
+   ]
+  }, 
+  {
+   "begin": "26.120", 
+   "children": [], 
+   "end": "26.520", 
+   "id": "f000033", 
+   "language": "pt-br", 
+   "lines": [
+    "arquitetura"
+   ]
+  }, 
+  {
+   "begin": "26.520", 
+   "children": [], 
+   "end": "26.520", 
+   "id": "f000034", 
+   "language": "pt-br", 
+   "lines": [
+    "e"
+   ]
+  }, 
+  {
+   "begin": "26.520", 
+   "children": [], 
+   "end": "27.480", 
+   "id": "f000035", 
+   "language": "pt-br", 
+   "lines": [
+    "filosofia"
+   ]
+  }, 
+  {
+   "begin": "27.480", 
+   "children": [], 
+   "end": "27.960", 
+   "id": "f000036", 
+   "language": "pt-br", 
+   "lines": [
+    "desde"
+   ]
+  }, 
+  {
+   "begin": "27.960", 
+   "children": [], 
+   "end": "28.120", 
+   "id": "f000037", 
+   "language": "pt-br", 
+   "lines": [
+    "o"
+   ]
+  }, 
+  {
+   "begin": "28.120", 
+   "children": [], 
+   "end": "28.960", 
+   "id": "f000038", 
+   "language": "pt-br", 
+   "lines": [
+    "s\u00e9culo"
+   ]
+  }, 
+  {
+   "begin": "28.960", 
+   "children": [], 
+   "end": "30.120", 
+   "id": "f000039", 
+   "language": "pt-br", 
+   "lines": [
+    "dezoito."
+   ]
+  }
+ ]
+}
